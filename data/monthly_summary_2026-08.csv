@@ -1,0 +1,12 @@
+category,sub_category,amount,account_count,mrr
+Revenue,Enterprise,244000,37,244000
+Revenue,SMB,124510,76,124510
+Revenue,Starter,36340,88,36340
+COGS,Cloud compute,45890,,
+COGS,Third-party data,30210,,
+COGS,Payment processing,8570,,
+OPEX,Sales,91460,,
+OPEX,Marketing,47300,,
+OPEX,Support,32900,,
+OPEX,Infra,36660,,
+Churn,Lost MRR (memo),-2574,6,-2574
