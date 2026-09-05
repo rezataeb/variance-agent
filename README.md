@@ -92,6 +92,10 @@ Calculations are deterministic; an LLM may rewrite the final explanation but nev
 
 The sample does not contain salesperson, campaign, contract-date, acquisition-cohort, or feature-usage fields. Therefore it can identify correlations and missing evidence but cannot prove those causal explanations. See `docs/AGENT_ADVANTAGE.md` for production-grade extensions.
 
+## Demo 
+
+Video: [https://loom.com/share/](https://www.loom.com/share/44fa5f30f5cb42ccba125fe3c8dc4b7c)
+
 ## License
 
 MIT
